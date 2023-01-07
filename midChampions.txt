@@ -1,74 +1,74 @@
 MAGES
-Vex
-Anivia
-Viktor
-Lux
-Karma
-Zilean
-Malzahar
-Heimerdinger
-Ahri
-Swain
-Cassiopeia
-Syndra
-Vel'koz
-Veigar
-Neeko
-Xerath
-Ziggs
-Zoe
-Lissandra
-Taliyah
-Brand
-Annie
-Twisted Fate
-Orianna
-Varus
-Azir
-Ryze
+Vex AP
+Anivia AP
+Viktor AP
+Lux AP
+Karma AP
+Zilean AP
+Malzahar AP
+Heimerdinger AP
+Ahri AP
+Swain AP
+Cassiopeia AP
+Syndra AP
+Vel'koz AP
+Veigar AP
+Neeko AP
+Xerath AP
+Ziggs AP
+Zoe AP
+Lissandra AP
+Taliyah AP
+Brand AP
+Annie AP
+Twisted Fate AP
+Orianna AP
+Varus AP
+Azir AP
+Ryze AP
 
 ASSASSINS
-Kassadin
-Zed
-Akshan
-Katarina
-Talon
-Gangplank
-Vladimir
-Fizz
-Ekko
-Akali
-Diana
-Qiyana
-LeBlanc
+Kassadin AP
+Zed AD
+Akshan AD
+Katarina AP
+Talon AD
+Gangplank AD
+Vladimir AP
+Fizz AP
+Ekko AP
+Akali AP
+Diana AP
+Qiyana AD
+LeBlanc AP
 
 SKIRMISHERS
-Pantheon
-Irelia
-Sylas
-Yasuo
-Yone
-Tryndamere
-Viego
-Renekton
-Jayce
+Pantheon AD
+Irelia AD
+Sylas AP
+Yasuo AD
+Yone AD
+Tryndamere AD
+Viego AD
+Renekton AD
+Jayce AD
 
 TANKS
-Zac
-Galio
-Malphite
-Cho'Gath
+Zac AP
+Galio AP
+Malphite AP
+Cho'Gath AP
 
 MARKSMEN
-Twitch
-Tristana
-Kayle
-Corki
+Twitch AD
+Tristana AD
+Kayle AP
+Corki AP
 
 BRUISERS
-Singed
-Rumble
-Garen
-Gragas
-Sett
-Nasus
+Singed AP
+Rumble AP
+Garen AD
+Gragas AP
+Sett AD
+Nasus AD
