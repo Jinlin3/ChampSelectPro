@@ -1,18 +1,41 @@
-let statement = "hello world!";
-console.log(statement);
+var fs = require("fs");
+var text = fs.readFileSync("./midChampions.txt", "utf-8");
+var textByLine = text.split("\n");
 
-const fs = require('fs'); //file system
-const readline = require("readline"); //allows fs to read line by line
+const mages = [];
+const assassins = [];
+const skirmishers = [];
+const tanks = [];
+const marksmen = [];
+const bruisers = [];
 
-const readFileLocation = "./midChampions.txt";
+let array; // pointer for array to be added to
 
-const scanChamps = () => {
-    const text = fs.createReadStream(readFileLocation);
-    const rl = readline.createInterface({
-        input: text,
-    })
-    rl.on("line", (res) => {
-        console.log(res);
-    });
-};
-scanChamps();
+for(let i = 0; i < textByLine.length; i++) {
+    let currentLine = textByLine[i];
+    switch (currentLine) {
+        case "MAGES":
+            array = mages;
+            break;
+        case "ASSASSINS":
+            array = assassins;
+            break;
+        case "SKIRMISHERS":
+            array = skirmishers;
+            break;
+        case "TANKS":
+            array = skirmishers;
+            break;
+        case "MARKSMEN":
+            array = marksmen;
+            break;
+        case "BRUISERS":
+            array = bruisers;
+            break;
+        default:
+            array.push(currentLine);
+            break;
+    }
+}
+
+console.log(assassins[0]);

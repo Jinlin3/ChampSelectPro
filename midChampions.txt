@@ -26,7 +26,6 @@ Orianna AP
 Varus AP
 Azir AP
 Ryze AP
-
 ASSASSINS
 Kassadin AP
 Zed AD
@@ -41,7 +40,6 @@ Akali AP
 Diana AP
 Qiyana AD
 LeBlanc AP
-
 SKIRMISHERS
 Pantheon AD
 Irelia AD
@@ -52,19 +50,16 @@ Tryndamere AD
 Viego AD
 Renekton AD
 Jayce AD
-
 TANKS
 Zac AP
 Galio AP
 Malphite AP
 Cho'Gath AP
-
 MARKSMEN
 Twitch AD
 Tristana AD
 Kayle AP
 Corki AP
-
 BRUISERS
 Singed AP
 Rumble AP
